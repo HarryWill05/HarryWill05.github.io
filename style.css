@@ -78,4 +78,15 @@ header > p {
     background-color: #000;
 }
 
+p {
+    text-align: center;
+    color: #fff;
+}
+
+.copy {
+    margin-top: 5px;
+    text-align: center;
+    color: #fff;
+}
+
 
