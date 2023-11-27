@@ -81,12 +81,14 @@ header > p {
 p {
     text-align: center;
     color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 .copy {
     margin-top: 5px;
     text-align: center;
     color: #fff;
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 
