@@ -66,6 +66,7 @@ header > p {
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 18px;
     font-weight: bold;
+    cursor: pointer;
     transition-duration: 0.3s;
     transition-property: all;
     -webkit-box-shadow: 2px 11px 31px 8px rgba(0,0,0,0.68); 
